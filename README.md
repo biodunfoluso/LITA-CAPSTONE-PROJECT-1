@@ -21,3 +21,30 @@ Ms. Excel
 SQL
 Power Bi
 
+See the screenshots downloaded
+
+SUMMARY OF THE FINDINGS
+
+Based on the analysed data, the following findings from the analysis are highlighted below;
+
+1.The salesdata table given contains 50,001rows with  the heading inclusive.
+
+2. Total sales column was calculated using                = PRODUCT(UNIT PRICE * QUANTITY)
+
+3. Total Revenue column was calculated by duplicating Total sales  and renaming. Since Total Revenue = Quantity X price.
+
+4. List of Tables connected to slicer for interactive activities are mentioned earlier.
+
+5.It is discovered that Total quantity was (345,000) in number.
+
+6. Sum of product number was calculated using new column and measure
+
+7. Shoes are the top selling product by total sales of (#3,087,500) ,next to shirt and hat.
+
+While the Southern region has the highest sum of total sales(total revenue) and highest sum of quantity. Eastern region is the second with higher revenue which recorded the top selling product.
+
+ 
+
+Conclusion:
+
+In line with the above findings, it can be deduced that the products were correctly distributed to the regions by well trained staff. The reason is that; no errors was recorded on the recording. No blank cells recorded and it seems monitoring of sales and inventory were made on regular bases.
