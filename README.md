@@ -20,9 +20,9 @@ This is  where Lita Capstone data on sales performances for a retail store is an
 
   ### TOOLS USED
 
---- Ms. Excel
---- SQL
---- Power Bi
+- Ms. Excel
+- SQL
+-Power Bi
 
 See the screenshots downloaded
 
