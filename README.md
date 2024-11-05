@@ -26,7 +26,7 @@ This is  where Lita Capstone data on sales performances for a retail store is an
 
 ## ACTIVITY CARRIED OUT
 
-  * Downloading the sales data table on various tools used.
+  - Downloading the sales data table on various tools used.
 
  - using pivot table for summarisation,and pivot chart for visualisation on Excel.
 - Writing queries on SQL to provide result for the findings.
@@ -37,19 +37,19 @@ Data transformation,
 
   From Ms. Excel analysis, the following pivot tables were prepared for the summary of the sales data.
 
-   * Total sales by product--- pivot table 2 
+   - Total sales by product--- pivot table 2 
 
- *Total sales by Month---   Pivot table 4
+ - Total sales by Month---   Pivot table 4
 
- *Total sales by Region---Pivot table 6
+  ,- Total sales by Region---Pivot table 6
 
-*Average sales by product--- Pivot table 8
+- Average sales by product--- Pivot table 8
 
-*Top selling product by sales--- Pivot table 16
+- Top selling product by sales--- Pivot table 16
 
-*Top selling product by quantity---Pivot table 20 
+- Top selling product by quantity---Pivot table 20 
 
-And their visualisation.,
+ - And their visualisation
 
  MySQL was used to justify the sales data questions and the following queries were executed to provide action output to the given findings.
 See the screenshots [downloaded here]https://canvas.instructure.com/eportfolios/3286997/entries/12091330/files/SZKICNHXSLTtnRFDIaKXZvMLnO5xVBnDgNXyO1p6
@@ -58,19 +58,19 @@ See the screenshots [downloaded here]https://canvas.instructure.com/eportfolios/
 
 Based on the analysed data, the following findings from the analysis are highlighted below;
 
-* The salesdata table given contains 50,001rows with  the heading inclusive.
+- The salesdata table given contains 50,001rows with  the heading inclusive.
 
-* Total sales column was calculated using                = PRODUCT(UNIT PRICE * QUANTITY)
+- Total sales column was calculated using                = PRODUCT(UNIT PRICE * QUANTITY)
 
-* Total Revenue column was calculated by duplicating Total sales and renaming. Since Total Revenue = Quantity X price.
+- Total Revenue column was calculated by duplicating Total sales and renaming. Since Total Revenue = Quantity X price.
 
- * List of Tables connected to slicer for interactive activities are mentioned earlier.
+ - List of Tables connected to slicer for interactive activities are mentioned earlier.
 
-* It is discovered that Total quantity was (345,000) in number.
+- It is discovered that Total quantity was (345,000) in number.
 
-* Sum of product number was calculated using new column and measure
+- Sum of product number was calculated using new column and measure
 
-* Shoes are the top selling product by total sales of (#3,087,500) ,next to shirt and hat.
+- Shoes are the top selling product by total sales of (#3,087,500) ,next to shirt and hat.
 
 While the Southern region has the highest sum of total sales(total revenue) and highest sum of quantity. Eastern region is the second with higher revenue which recorded the top selling product.
 
