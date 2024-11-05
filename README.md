@@ -34,7 +34,7 @@ Based on the analysed data, the following findings from the analysis are highlig
 
 * Total sales column was calculated using                = PRODUCT(UNIT PRICE * QUANTITY)
 
-* Total Revenue column was calculated by duplicating Total sales  and renaming. Since Total Revenue = Quantity X price.
+* Total Revenue column was calculated by duplicating Total sales and renaming. Since Total Revenue = Quantity X price.
 
  * List of Tables connected to slicer for interactive activities are mentioned earlier.
 
