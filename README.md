@@ -30,7 +30,7 @@ See the screenshots [download here]
 
 Based on the analysed data, the following findings from the analysis are highlighted below;
 
-1.The salesdata table given contains 50,001rows with  the heading inclusive.
+* The salesdata table given contains 50,001rows with  the heading inclusive.
 
 2. Total sales column was calculated using                = PRODUCT(UNIT PRICE * QUANTITY)
 
