@@ -16,7 +16,7 @@ This is  where Lita Capstone data on sales performances for a retail store is an
   iv. To produce an insight to the findings at the retail store base on the sales data, using Power Bi  as tool for final presentations.
 
 ### Data Sources
-   Lita Capstone salesdata was used as the primary sources of data ssaved on Excel workbook.
+   Lita Capstone salesdata was used as the primary sources of data saved on Excel workbook.
 
   ### TOOLS USED
 
