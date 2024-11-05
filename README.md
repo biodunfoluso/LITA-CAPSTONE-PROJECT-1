@@ -24,7 +24,34 @@ This is  where Lita Capstone data on sales performances for a retail store is an
 - SQL
 - Power Bi
 
-MySQL was used to justify the sales data questions and the following queries were executed to provide action output to the given findings.
+## ACTIVITY CARRIED OUT
+
+  * Downloading the sales data table on various tools used.
+
+ - using pivot table for summarisation,and pivot chart for visualisation on Excel.
+- Writing queries on SQL to provide result for the findings.
+Data transformation,
+- Data cleaning,viewing data status on column quality,column profile,column distribution. Column calculations and measure,and data visualisation on power Bi.
+
+## SUMMARY FOR EACH TOOL USED
+
+  From Ms. Excel analysis, the following pivot tables were prepared for the summary of the sales data.
+
+   * Total sales by product--- pivot table 2 
+
+ *Total sales by Month---   Pivot table 4
+
+ *Total sales by Region---Pivot table 6
+
+*Average sales by product--- Pivot table 8
+
+*Top selling product by sales--- Pivot table 16
+
+*Top selling product by quantity---Pivot table 20 
+
+And their visualisation.,
+
+ MySQL was used to justify the sales data questions and the following queries were executed to provide action output to the given findings.
 See the screenshots [downloaded here]https://canvas.instructure.com/eportfolios/3286997/entries/12091330/files/SZKICNHXSLTtnRFDIaKXZvMLnO5xVBnDgNXyO1p6
 
 ### SUMMARY OF THE FINDINGS
