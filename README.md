@@ -24,6 +24,7 @@ This is  where Lita Capstone data on sales performances for a retail store is an
 - SQL
 - Power Bi
 
+MySQL was used to justify the sales data questions and the following queries were executed to provide action output to the given findings.
 See the screenshots [downloaded here]https://canvas.instructure.com/eportfolios/3286997/entries/12091330/files/SZKICNHXSLTtnRFDIaKXZvMLnO5xVBnDgNXyO1p6
 
 ### SUMMARY OF THE FINDINGS
