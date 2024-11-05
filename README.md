@@ -1,11 +1,11 @@
-# LITA-CAPSTONE-PROJECT-1
+## LITA-CAPSTONE-PROJECT-1
 This is  where Lita Capstone data on sales performances for a retail store is analysed by analytical tools to make  findings. 
 
- -- PROJECT TITLE: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE
+## PROJECT TITLE: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE
 
-# PROJECT OVERVIEW:
+### PROJECT OVERVIEW:
 
-# AIM AND OBJECTIVES
+### AIM AND OBJECTIVES
 
  > To analyse the sales performances 
 
