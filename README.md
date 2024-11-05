@@ -24,7 +24,7 @@ This is  where Lita Capstone data on sales performances for a retail store is an
 - SQL
 - Power Bi
 
-See the screenshots [download here]
+See the screenshots [downloaded here]https://canvas.instructure.com/eportfolios/3286997/entries/12091330/files/SZKICNHXSLTtnRFDIaKXZvMLnO5xVBnDgNXyO1p6
 
 ### SUMMARY OF THE FINDINGS
 
