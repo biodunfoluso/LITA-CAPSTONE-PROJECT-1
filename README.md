@@ -1,3 +1,10 @@
+![PowerBi salesdata table andview](https://github.com/user-attachments/assets/5b32da81-d227-4ae2-b3f9-bd1d314742b9)
+![Power Bi salesdata view](https://github.com/user-attachments/assets/5233a537-d513-48f7-bdb4-17a74a175c8f)
+![Pivotchart for salesdata](https://github.com/user-attachments/assets/2c33e8ad-ec99-48b0-9a6d-bb81a2ba66b4)
+![Pivot chart for saledata analysis](https://github.com/user-attachments/assets/d6abc725-ffcf-4851-a297-797aeebf87f6)
+![Screenshot (46)](https://github.com/user-attachments/assets/f1eb3e67-6bf6-4704-a5ec-4df240f0b474)
+![Pivot tables for salesdata](https://github.com/user-attachments/assets/4f55c4ed-13eb-4daf-a0e6-1ee7ffa29968)
+![Salesdata table](https://github.com/user-attachments/assets/aac1699c-ca45-4c0b-b91e-d234bd7ac40f)
 ## LITA-CAPSTONE-PROJECT-1
 This is  where Lita Capstone data on sales performances for a retail store is analysed by analytical tools to make  findings. 
 
@@ -37,11 +44,10 @@ Data transformation,
 
   From Ms. Excel analysis, the following pivot tables were prepared for the summary of the sales data.
 
-   - Total sales by product--- pivot table 2 
+- Total sales by product--- pivot table 2 
 
- - Total sales by Month---   Pivot table 4
-
-  ,- Total sales by Region---Pivot table 6
+- Total sales by Month---   Pivot table 4
+- Total sales by Region---Pivot table 6
 
 - Average sales by product--- Pivot table 8
 
@@ -49,7 +55,7 @@ Data transformation,
 
 - Top selling product by quantity---Pivot table 20 
 
- - And their visualisation
+- And their visualisation
 
  MySQL was used to justify the sales data questions and the following queries were executed to provide action output to the given findings.
 See the screenshots [downloaded here]https://canvas.instructure.com/eportfolios/3286997/entries/12091330/files/SZKICNHXSLTtnRFDIaKXZvMLnO5xVBnDgNXyO1p6
