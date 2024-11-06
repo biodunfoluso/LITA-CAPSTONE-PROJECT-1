@@ -1,11 +1,6 @@
-![PowerBi salesdata table andview](https://github.com/user-attachments/assets/5b32da81-d227-4ae2-b3f9-bd1d314742b9)
-![Power Bi salesdata view](https://github.com/user-attachments/assets/5233a537-d513-48f7-bdb4-17a74a175c8f)
-![Pivotchart for salesdata](https://github.com/user-attachments/assets/2c33e8ad-ec99-48b0-9a6d-bb81a2ba66b4)
-![Pivot chart for saledata analysis](https://github.com/user-attachments/assets/d6abc725-ffcf-4851-a297-797aeebf87f6)
-![Screenshot (46)](https://github.com/user-attachments/assets/f1eb3e67-6bf6-4704-a5ec-4df240f0b474)
-![Pivot tables for salesdata](https://github.com/user-attachments/assets/4f55c4ed-13eb-4daf-a0e6-1ee7ffa29968)
-![Salesdata table](https://github.com/user-attachments/assets/aac1699c-ca45-4c0b-b91e-d234bd7ac40f)
-## LITA-CAPSTONE-PROJECT-1
+
+### LITA CAPSTONE PROJECT 1
+
 This is  where Lita Capstone data on sales performances for a retail store is analysed by analytical tools to make  findings. 
 
 ## PROJECT TITLE: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE
@@ -58,7 +53,8 @@ Data transformation,
 - And their visualisation
 
  MySQL was used to justify the sales data questions and the following queries were executed to provide action output to the given findings.
-See the screenshots [downloaded here]https://canvas.instructure.com/eportfolios/3286997/entries/12091330/files/SZKICNHXSLTtnRFDIaKXZvMLnO5xVBnDgNXyO1p6
+See the files attached.![SQL PRODUCT BY TOTAL SALES](https://github.com/user-attachments/assets/0c0b8cfb-58a6-41b0-af14-02fd1558cc09)
+
 
 ### SUMMARY OF THE FINDINGS
 
@@ -79,6 +75,14 @@ Based on the analysed data, the following findings from the analysis are highlig
 - Shoes are the top selling product by total sales of (#3,087,500) ,next to shirt and hat.
 
 While the Southern region has the highest sum of total sales(total revenue) and highest sum of quantity. Eastern region is the second with higher revenue which recorded the top selling product.
+
+![PowerBi salesdata table andview](https://github.com/user-attachments/assets/5b32da81-d227-4ae2-b3f9-bd1d314742b9)
+![Power Bi salesdata view](https://github.com/user-attachments/assets/5233a537-d513-48f7-bdb4-17a74a175c8f)
+![Pivotchart for salesdata](https://github.com/user-attachments/assets/2c33e8ad-ec99-48b0-9a6d-bb81a2ba66b4)
+![Pivot chart for saledata analysis](https://github.com/user-attachments/assets/d6abc725-ffcf-4851-a297-797aeebf87f6)
+![Screenshot (46)](https://github.com/user-attachments/assets/f1eb3e67-6bf6-4704-a5ec-4df240f0b474)
+![Pivot tables for salesdata](https://github.com/user-attachments/assets/4f55c4ed-13eb-4daf-a0e6-1ee7ffa29968)
+![Salesdata table](https://github.com/user-attachments/assets/aac1699c-ca45-4c0b-b91e-d234bd7ac40f)
 
  
 
