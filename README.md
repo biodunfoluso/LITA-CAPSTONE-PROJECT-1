@@ -144,6 +144,11 @@ B. Using Power Bi.
 The customer data was loaded, transformed and cleaned. Prepared for Data visualisation connected with slicer.
 
 See the screenshots below.
+![POWERBicustomerdataview](https://github.com/user-attachments/assets/89f968f2-9431-442c-9565-9738c0069623)
+![customerdatapivotchart](https://github.com/user-attachments/assets/092355f5-45e1-40d7-bae8-22bdc1c8ad66)
+![Customerdata pivot chartview](https://github.com/user-attachments/assets/fb7ba550-e19a-4826-bc7b-22b10ca7c6ef)
+![customerdatapivottables](https://github.com/user-attachments/assets/81c16f35-1cbd-45e5-ae8d-2fe2e820bb0c)
+![customerdatatable](https://github.com/user-attachments/assets/69625ff2-9bfb-4d86-b47d-ca4a3509678a)
 
  
 
@@ -167,4 +172,4 @@ VI. Monthly Subscription rate is 3,750.
 
 Based on these findings,it is discovered that the major subscription type demanded for, at the Eastern region shows that they prefered low cost of subscription types with no networking problem to canceled the subscriptions other region experienced on standard and premium.
 
-I recommend the company to see to improving  their network on standad and premium  subscription types to increase their rate of income as revenue and profit making.
+I recommend the company to see to improving  their network on standard and premium  subscription types to increase their rate of income as revenue and profit making.
