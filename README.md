@@ -90,3 +90,81 @@ While the Southern region has the highest sum of total sales(total revenue) and 
 ### Conclusion:
 
 In line with the above findings, it can be deduced that the products were correctly distributed to the regions by well trained staff. The reason is that; no errors was recorded on the recording. No blank cells recorded and it seems monitoring of sales and inventory were made on regular bases.
+
+
+ ###  Lita Capstone project 2
+
+ 
+### PROJECT TITLE:
+
+# Customer Segmentation For a Subscription Service.
+
+### Project Objectives
+
+- To analyse customer data for a subscription services.
+
+- To identify Segments on trends.
+
+### Scope of study
+
+1. To track the top selling subscription types
+
+Il. Understanding customer behavor.
+
+III. To identify key trends in cancellations and renewals.
+
+IV. To interpret and present the analysison power Bi Dashboard.
+
+Tools used
+
+Ms. Excel, and power Bi
+
+STEPS APPLIED
+
+A. Using Ms Excel, to show the report of the following by creating pivot tables for summarisation with slicer in connection  for interraction. Additional column was created foŕ subscription Duration using 
+
+=DATEDIF(Subscription Start,SubscriptionEnd, "d")
+
+LIST OF PIVOT TABLES
+
+I. Pivot table 3--Subscription Count by Region
+
+II. Pivot table 5--Showing report of the most popular Subscription tpes
+
+III. Pivot table  7 --Count of Cancellation by Month.
+
+IV. Pivot table 11 -- Revenue by  Subscription Type
+
+V. Pivot table 13-- cancellation rate by Region.
+
+VI. Pivot table 15-- customer name by subscription count.
+
+B. Using Power Bi.
+
+The customer data was loaded, transformed and cleaned. Prepared for Data visualisation connected with slicer.
+
+See the screenshots below.
+
+ 
+
+The above tasks help in the interpretation and presentations of the analysis.
+
+SUMMARY OF FINDINGS
+
+The following findings are highlighted base on customer Segmentation for a subscription services analysis.
+
+I. CustomerID count ,canceled count,on rows equal 75,000.
+
+II. Sum of Revenue is 148,819,686 within January 2022  and August 2024.
+
+III. Most popular Subscription type is Basic at the Eastern Regionwith count of 18,750.
+
+IV. Subscription canceled is calculated on new column using conditional column = IF( Cancelled=True, "1", "0") which equals 33,750. While Subscription successful is 41, 250.
+
+V. Average Subscription Duration equals 365days
+
+VI. Monthly Subscription rate is 3,750. 
+
+Based on these findings,it is discovered that the major subscription type demanded for, at the Eastern region shows that they prefered low cost of subscription types with no networking problem to canceled the subscriptions other region experienced on standard and premium.
+
+I recommend the company to see to improving  their network on standad and premium  subscription types to increase their rate of income as revenue and profit making.
