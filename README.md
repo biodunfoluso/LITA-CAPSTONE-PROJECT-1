@@ -73,7 +73,7 @@ Based on the analysed data, the following findings from the analysis are highlig
 
 - Sum of product number was calculated using new column and measure
 
-- Shoes are the top selling product by total sales of (#3,087,500) ,next to shirt and hat.
+- Shoes are the top selling product by total sales of (#3,087,500), next to shirt and hat.
 
 While the Southern region has the highest sum of total sales(total revenue) and highest sum of quantity. Eastern region is the second with higher revenue which recorded the top selling product.
 
