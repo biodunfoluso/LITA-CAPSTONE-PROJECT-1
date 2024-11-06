@@ -92,7 +92,7 @@ While the Southern region has the highest sum of total sales(total revenue) and 
 In line with the above findings, it can be deduced that the products were correctly distributed to the regions by well trained staff. The reason is that; no errors was recorded on the recording. No blank cells recorded and it seems monitoring of sales and inventory were made on regular bases.
 
 
- ###  Lita Capstone project 2
+ #  Lita Capstone project 2
 
  
 ### PROJECT TITLE:
@@ -109,23 +109,23 @@ In line with the above findings, it can be deduced that the products were correc
 
 1. To track the top selling subscription types
 
-Il. Understanding customer behavor.
+2. Understanding customer behavor.
 
-III. To identify key trends in cancellations and renewals.
+3. To identify key trends in cancellations and renewals.
 
-IV. To interpret and present the analysison power Bi Dashboard.
+4. To interpret and present the analysison power Bi Dashboard.
 
-Tools used
+### Tools used
 
 Ms. Excel, and power Bi
 
-STEPS APPLIED
+### STEPS APPLIED
 
 A. Using Ms Excel, to show the report of the following by creating pivot tables for summarisation with slicer in connection  for interraction. Additional column was created foŕ subscription Duration using 
 
 =DATEDIF(Subscription Start,SubscriptionEnd, "d")
 
-LIST OF PIVOT TABLES
+### LIST OF PIVOT TABLES
 
 I. Pivot table 3--Subscription Count by Region
 
@@ -149,7 +149,7 @@ See the screenshots below.
 
 The above tasks help in the interpretation and presentations of the analysis.
 
-SUMMARY OF FINDINGS
+### SUMMARY OF FINDINGS
 
 The following findings are highlighted base on customer Segmentation for a subscription services analysis.
 
