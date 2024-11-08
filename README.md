@@ -32,7 +32,7 @@ This project demonstrates how Ms.Excel,SQL,and power Bi tools can be combined to
 
 ## ACTIVITY CARRIED OUT
 
-  - Downloading the sales data table on various tools used.
+ - Downloading the sales data table on various tools used.
 
  - using pivot table for summarisation,and pivot chart for visualisation on Excel.
 - Writing queries on SQL to provide result for the findings.
