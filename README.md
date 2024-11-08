@@ -1,27 +1,30 @@
 
 
-### LITA CAPSTONE PROJECT 1
+## LITA CAPSTONE PROJECT 1
 
 This is  where Lita Capstone data on sales performances for a retail store is analysed by analytical tools to make  findings. 
 
-## PROJECT TITLE: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE
+## PROJECT TITLE: 
+SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE
 
-## PROJECT OVERVIEW:
+## PROJECT OVERVIEW
+'''
+This project demonstrates how Ms.Excel,SQL,and power Bi tools can be combined to deliver a comprehensive, interactive analysis for business insights.
 
-### AIM AND OBJECTIVES
+## AIM AND OBJECTIVES
 
  i. To analyse the sales performances 
 
- ii. To explore sales data to uncover the top selling products
+ ii.To explore sales data to uncover the top selling products
 
  iii. To explore sales data to uncover the regional per monthly sales trends.
 
   iv. To produce an insight to the findings at the retail store base on the sales data, using Power Bi  as tool for final presentations.
 
-### Data Sources
+## Data Sources
    Lita Capstone salesdata was used as the primary sources of data saved on Excel workbook.
 
-  ### TOOLS USED
+  ## TOOLS USED
 
 - Ms. Excel
 - SQL
@@ -57,7 +60,7 @@ Data transformation,
 See the files attached.![SQL PRODUCT BY TOTAL SALES](https://github.com/user-attachments/assets/0c0b8cfb-58a6-41b0-af14-02fd1558cc09)
 
 
-### SUMMARY OF THE FINDINGS
+## SUMMARY OF THE FINDINGS
 
 Based on the analysed data, the following findings from the analysis are highlighted below;
 
@@ -87,7 +90,7 @@ While the Southern region has the highest sum of total sales(total revenue) and 
 
  
 
-### Conclusion:
+## Conclusion:
 
 In line with the above findings, it can be deduced that the products were correctly distributed to the regions by well trained staff. The reason is that; no errors was recorded on the recording. No blank cells recorded and it seems monitoring of sales and inventory were made on regular bases.
 
