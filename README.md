@@ -175,4 +175,5 @@ VI. Monthly Subscription rate is 3,750.
 
 Based on these findings,it is discovered that the major subscription type demanded for, at the Eastern region shows that they prefered low cost of subscription types with no networking problem to canceled the subscriptions other region experienced on standard and premium.
 
+
 I recommend the company to see to improving  their network on standard and premium  subscription types to increase their rate of income as revenue and profit making.
